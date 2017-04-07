@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-var expectedVersion = "v1.1.3"
+var expectedVersion = "v2.0.0"
 
 func TestVersion(t *testing.T) {
 	if expectedVersion != Version {

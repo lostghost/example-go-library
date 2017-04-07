@@ -1,7 +1,7 @@
 package examplegolibrary
 
 // Version is the current application version identifier
-const Version = "v1.1.3"
+const Version = "v2.0.0"
 
 // GetVersion returns the applicaiton version identifier
 func GetVersion() string {
